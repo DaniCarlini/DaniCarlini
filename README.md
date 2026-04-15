@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DaniCarlini
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning SQL, Python
-- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 
 <!---
